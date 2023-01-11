@@ -1,0 +1,12 @@
+C0001,999999999,Customer,Anthony,anthony@gmail.com,+60134899999,Male,50,Sarawak
+M0001,88888888,Manager,Ben,ben@gmail.com,+60134893166,Male,20,Melaka
+C0002,66666666,Customer,siwei,siwei@gmail.com,+60144445677,Male,70,Johor
+C0003,55555555,Customer,delvert,delvert@gmail.com,+60143445677,Male,50,Kuala Lumpur
+C0004,12345678,Customer,jiexiang,xiang@yahoo.com,+6014488876,Male,30,Johor
+C0005,111111111,Customer,may,may@icloud.com,+6016895977,Female,45,Kuala Lumpur
+C0006,33333333,Customer,ellie,ellie@gmail.com,+60134545677,Female,18,Ipoh
+C0007,44444444,Customer,bee,bee@gmail.com,+60143568677,Male,35,Penang
+C0008,87654321,Customer,weixuan,xuan@gmail.com,+6013333333,Male,20,Johor
+C0009,01234567,Customer,SherWin,sher@gmail.com,+6013001000,Male,29,Sabah
+C0010,22222222,Customer,yongwei,yong@gmail.com,+6016788490,Male,70,Pahang
+M0002,0011223344,Manager,Martin,martin@gmail.com,+60111111111,Male,40,Kuala Lumpur

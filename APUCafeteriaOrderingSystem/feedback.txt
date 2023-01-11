@@ -1,0 +1,2 @@
+Good,Extremely Bad,BADDDDDD,C0001
+Good,Good,Delicious,C0004

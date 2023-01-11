@@ -1,0 +1,7 @@
+F0001,Chicken chop,16,Food
+F0002,French Fries,7,Food
+B0001,Cola,3,Beverage
+F0003,Spaghetti,10,Food
+F0004,Steak,20,Food
+B0002,Sprite,4,Beverage
+B0003,Lemon Tea,6,Beverage
